@@ -8,6 +8,7 @@
 import UIKit
 import Charts
 import Alamofire
+import Lucas
 
 class ViewController: UIViewController {
    
@@ -18,8 +19,10 @@ class ViewController: UIViewController {
       print("Entrou na ViewController")
       
       print("Testando Pods")
-    
-       print("AlamoFire")
+      
+      print("AlamoFire")
+      
+      Lucas.Target()
       
    }
 }
