@@ -8,5 +8,6 @@ target 'SusanaApp' do
   # Pods for SusanaApp
 
 	pod 'Charts'
+	pod 'Alamofire', '~> 5.5'
 
 end

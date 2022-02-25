@@ -7,6 +7,7 @@
 
 import UIKit
 import Charts
+import Alamofire
 
 class ViewController: UIViewController {
    
@@ -17,6 +18,8 @@ class ViewController: UIViewController {
       print("Entrou na ViewController")
       
       print("Testando Pods")
+    
+       print("AlamoFire")
       
    }
 }
